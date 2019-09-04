@@ -1,0 +1,5 @@
+## Interface: 11302
+## Title: IdiotProofTalents
+## Author: Sarf
+## Description: Allows for careful spending of your talent points. No more Dagger Mastery for you, Multe!
+IdiotProofTalents.lua
